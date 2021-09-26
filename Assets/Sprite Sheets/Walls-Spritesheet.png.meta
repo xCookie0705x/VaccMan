@@ -1,28 +1,28 @@
 fileFormatVersion: 2
-guid: 996ac9981a4a70247a874f156d8410fa
+guid: 9e41917b570e19f46afe63d3e342adbe
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3434392496243154924
-    second: Virus-Spritesheet_0
+      213: -6084312886020147773
+    second: Walls-Spritesheet_0
   - first:
-      213: 1146094778364388344
-    second: Virus-Spritesheet_1
+      213: 2625803971852640817
+    second: Walls-Spritesheet_1
   - first:
-      213: 6788110876377200751
-    second: Virus-Spritesheet_2
+      213: 6455989762457475730
+    second: Walls-Spritesheet_2
   - first:
-      213: -3267997199831552984
-    second: Virus-Spritesheet_3
+      213: 7805058396101557638
+    second: Walls-Spritesheet_3
   - first:
-      213: 6343160265088252387
-    second: Virus-Spritesheet_4
+      213: -7051173787938519299
+    second: Walls-Spritesheet_4
   - first:
-      213: -3196298968333311401
-    second: Virus-Spritesheet_5
+      213: 339120042449029140
+    second: Walls-Spritesheet_5
   - first:
-      213: 427974117790846857
-    second: Virus-Spritesheet_6
+      213: 9071597459199890599
+    second: Walls-Spritesheet_6
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -112,127 +112,148 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Virus-Spritesheet_0
+      name: Walls-Spritesheet_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 256
-        width: 128
-        height: 128
+        y: 320
+        width: 160
+        height: 160
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 410e82a88369650d0800000000000000
-      internalID: -3434392496243154924
+      spriteID: 3c5ff6e8aad209ba0800000000000000
+      internalID: -6084312886020147773
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Virus-Spritesheet_1
+      name: Walls-Spritesheet_1
       rect:
         serializedVersion: 2
-        x: 128
-        y: 256
-        width: 128
-        height: 128
+        x: 160
+        y: 320
+        width: 160
+        height: 160
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8f3e65fe02fb7ef00800000000000000
-      internalID: 1146094778364388344
+      spriteID: 1322610eccab07420800000000000000
+      internalID: 2625803971852640817
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Virus-Spritesheet_2
+      name: Walls-Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a16d0db78489950800000000000000
+      internalID: 6455989762457475730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls-Spritesheet_3
       rect:
         serializedVersion: 2
         x: 0
-        y: 128
-        width: 128
-        height: 128
+        y: 160
+        width: 160
+        height: 160
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f68bd6a80e6343e50800000000000000
-      internalID: 6788110876377200751
+      spriteID: 68d30de1243215c60800000000000000
+      internalID: 7805058396101557638
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Virus-Spritesheet_3
+      name: Walls-Spritesheet_4
       rect:
         serializedVersion: 2
-        x: 128
-        y: 128
-        width: 128
-        height: 128
+        x: 160
+        y: 160
+        width: 160
+        height: 160
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 82ca1118cddb5a2d0800000000000000
-      internalID: -3267997199831552984
+      spriteID: df601607cc2352e90800000000000000
+      internalID: -7051173787938519299
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Virus-Spritesheet_4
+      name: Walls-Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418c362c1ebc4b400800000000000000
+      internalID: 339120042449029140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls-Spritesheet_6
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 128
-        height: 128
+        width: 160
+        height: 160
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3e935f157ae670850800000000000000
-      internalID: 6343160265088252387
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Virus-Spritesheet_5
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 0
-        width: 128
-        height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 752ab84e50774a3d0800000000000000
-      internalID: -3196298968333311401
+      spriteID: 7a412f463d9c4ed70800000000000000
+      internalID: 9071597459199890599
       vertices: []
       indices: 
       edges: []

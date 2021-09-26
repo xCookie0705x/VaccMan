@@ -107,9 +107,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 136
+        y: 128
         width: 128
-        height: 120
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -130,7 +130,7 @@ TextureImporter:
         x: 0
         y: 0
         width: 128
-        height: 120
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -140,48 +140,6 @@ TextureImporter:
       bones: []
       spriteID: 60bf51f95d2be9a90800000000000000
       internalID: -7305204914981569786
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: VaccMan-Spitesheet_2
-      rect:
-        serializedVersion: 2
-        x: 108
-        y: 33
-        width: 20
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ad237d27c93c6d680800000000000000
-      internalID: -8730575750902107430
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: VaccMan-Spitesheet_3
-      rect:
-        serializedVersion: 2
-        x: 92
-        y: 0
-        width: 13
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7376dfc88bf17f730800000000000000
-      internalID: 4032726868833429303
       vertices: []
       indices: 
       edges: []
