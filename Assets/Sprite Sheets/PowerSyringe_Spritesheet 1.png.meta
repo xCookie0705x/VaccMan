@@ -1,19 +1,13 @@
 fileFormatVersion: 2
-guid: 48a4894a71baa084187c98270e093bbc
+guid: 708ab882fb495d54fb36cf5db398c01e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2186828843843638164
-    second: VaccMan-Spitesheet_0
+      213: 8798587097230697501
+    second: PowerSyringe_Spritesheet 1_0
   - first:
-      213: -7305204914981569786
-    second: VaccMan-Spitesheet_1
-  - first:
-      213: -8730575750902107430
-    second: VaccMan-Spitesheet_2
-  - first:
-      213: 4032726868833429303
-    second: VaccMan-Spitesheet_3
+      213: -1337192149474959259
+    second: PowerSyringe_Spritesheet 1_1
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -103,7 +97,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: VaccMan-Spitesheet_0
+      name: PowerSyringe_Spritesheet 1_0
       rect:
         serializedVersion: 2
         x: 0
@@ -117,14 +111,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c6c2f1ab0c2d6a1e0800000000000000
-      internalID: -2186828843843638164
+      spriteID: d1465c7195cda1a70800000000000000
+      internalID: 8798587097230697501
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: VaccMan-Spitesheet_1
+      name: PowerSyringe_Spritesheet 1_1
       rect:
         serializedVersion: 2
         x: 0
@@ -138,8 +132,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 60bf51f95d2be9a90800000000000000
-      internalID: -7305204914981569786
+      spriteID: 560aa1623d6517de0800000000000000
+      internalID: -1337192149474959259
       vertices: []
       indices: 
       edges: []
